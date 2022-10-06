@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C, C++, Python**
 
-- 📫 How to reach me **jeba2k4bruno@gmail.com**
+- 📫 How to reach me **sjraj2624@gmail.com**
 
 - ⚡ Fun fact **I'm new to Programming so Never ask me doubts ;-;**
 

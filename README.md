@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-jeba&label=Profile%20views&color=0e75b6&style=flat" alt="im-jeba" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_bruno_" target="blank"><img src="https://img.shields.io/twitter/follow/_bruno_?logo=twitter&style=for-the-badge" alt="_bruno_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Im_Jeba" target="blank"><img src="https://img.shields.io/twitter/follow/Im_Jeba?logo=twitter&style=for-the-badge" alt="Im_Jeba" /></a> </p>
 
 - 🌱 I’m currently learning **C, C++, Python**
 
